@@ -84,7 +84,7 @@ p, ul, small { margin-bottom: 24px; }
 	ul { }
 	ul li { }
 
-a { text-decoration: none; transition: linear color .3s;}
+a { text-decoration: none; transition: linear color .3s; color: #7156e5; text-decoration: underline; }
 
 	
 strong, b { }
@@ -100,11 +100,11 @@ em, i { }
 
 /* = forms ---------------------- */
 
-form { }
+form { margin: 48px 0; }
 
 input, button { box-sizing: border-box; font: 300 24px/1 "calluna", sans-serif; color: #5b5c5e; padding: 8px; display: block; margin: 0 0 4px 0; width: 100%; border-radius: 2px; vertical-align: middle; }
 input { background: #edeff0; }
-button { background: #00cca5; color: #fff; font-weight: 900; padding: 10px 24px; }
+button { background: #7156e5; color: #fff; font-weight: 900; padding: 10px 24px; }
 
 
 
